@@ -1,0 +1,4 @@
+==> pass children in component
+==> ternary operator
+==> props key => uniquekey in component
+==> fire event 
